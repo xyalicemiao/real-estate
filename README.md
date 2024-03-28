@@ -2,7 +2,7 @@
 
 ## Overview
 
-This paper analyzes from toronto government website about real estate and social housing data in Toronto.
+This paper analyzes from toronto government website toronto.ca about real estate and social housing data in Toronto.
 
 
 ## File Structure
