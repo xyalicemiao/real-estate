@@ -2,7 +2,7 @@
 
 ## Overview
 
-This paper analyze from toronto government website about real estate and social housing data in Toronto.
+This paper analyzes from toronto government website about real estate and social housing data in Toronto.
 
 
 ## File Structure
@@ -19,4 +19,4 @@ The repo is structured as:
 
 ## Statement on LLM usage
 
-Aspects of the code were written with the help of the auto-complete tool, Codriver. The abstract and introduction were written with the help of ChatHorse and the entire chat history is available in inputs/llms/usage.txt.
+LLM is used to edit this paper.
