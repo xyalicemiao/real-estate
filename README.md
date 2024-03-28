@@ -2,14 +2,14 @@
 
 ## Overview
 
-This paper analyzes from toronto government website toronto.ca about real estate and social housing data in Toronto.
+Real Eestate is an essential part of a city's economy, and also an essential part of everyone's life. This paper aims to find out the proportion of social housing in the real estate market in Toronto. This paper analyze the data sourced from toronto government website toronto.ca about real estate and social housing data in Toronto, specifically from OpenData Portal. 
 
 
 ## File Structure
 
 The repo is structured as:
 
--   `data/raw_data` contains the raw data as obtained from X.
+-   `data/raw_data` contains the raw data as obtained from toronto.ca and OpenData Portal of Toronto.
 -   `data/analysis_data` contains the cleaned dataset that was constructed.
 -   `model` contains fitted models. 
 -   `other` contains relevant literature, details about LLM chat interactions, and sketches.
