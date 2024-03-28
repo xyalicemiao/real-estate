@@ -2,7 +2,7 @@
 
 ## Overview
 
-Real Eestate is an essential part of a city's economy, and also an essential part of everyone's life. This paper aims to find out the proportion of social housing in the real estate market in Toronto. This paper analyze the data sourced from toronto government website toronto.ca about real estate and social housing data in Toronto, specifically from OpenData Portal. 
+Real Eestate is an essential part of a city's economy, and also an essential part of everyone's life. In the real estate sector, social housing is an important part as it could affect many people who are economically disadvantaged. This paper aims to find out the proportion of social housing in the real estate market in Toronto. This paper analyze the data sourced from toronto government website toronto.ca about real estate and social housing data in Toronto, specifically from OpenData Portal. 
 
 
 ## File Structure
