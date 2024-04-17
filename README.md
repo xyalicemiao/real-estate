@@ -19,4 +19,4 @@ The repo is structured as:
 
 ## Statement on LLM usage
 
-LLM is used to edit this paper.
+ChatGPT4 is used to edit the code and writings in this paper.
